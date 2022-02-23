@@ -6,7 +6,7 @@ from game.casting.removed import Removed
 
 from game.directing.director import Director
 
-from game.services.earn_point import Point
+from game.services.points import Point
 from game.services.lose_point import Lose
 
 from game.shared.color import Color
